@@ -1,6 +1,6 @@
 import numpy as np
 
-## First define the arcos kernel
+## First define the arccos kernel
 
 def f(theta):
     f = (np.sin(theta)+(np.pi-theta)*np.cos(theta))/np.pi
